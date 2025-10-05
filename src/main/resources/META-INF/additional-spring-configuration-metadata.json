@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "teamfight-tactics.api-key",
+      "type": "java.lang.String",
+      "description": "Application API key."
+    }
+  ]
+}
