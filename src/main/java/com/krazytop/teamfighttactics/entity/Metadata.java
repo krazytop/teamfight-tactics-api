@@ -16,7 +16,8 @@ import java.util.Set;
 public class Metadata {
 
     @Id
-    private Integer currentSeason;
+    private Integer id = 1;
+    private Integer currentSet;
     private String currentPatch;
     private Set<String> allPatches = new HashSet<>();
 }
